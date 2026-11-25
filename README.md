@@ -8,6 +8,7 @@ I'm learning Python and building my programming skills step by step.
 - Python Programming
 - Git & GitHub
 - Generative AI
+
 ### 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python)
