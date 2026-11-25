@@ -4,7 +4,7 @@
 
 I'm learning Python and building my programming skills step by step.
 
-### 🚀 Currently Learning.
+### 🚀 Currently Learning
 - Python Programming
 - Git & GitHub
 - Generative AI
